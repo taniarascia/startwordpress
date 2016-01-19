@@ -19,7 +19,7 @@ You do need to know how to set up a local server environment. Fortunately, if yo
 * Take an existing HTML website (based on Bootstrap) and convert it into a custom WordPress theme
 * [Migrate WordPress to a live server](http://www.taniarascia.com/migrating-a-wordpress-site-to-a-live-server/)
 
-### Topics covered
+## Topics covered
 
 * What can WordPress do for me?
 * Creating a design
