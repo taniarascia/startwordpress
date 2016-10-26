@@ -1,7 +1,7 @@
 Start WordPress
 ========
 
-**A Theme for Learning WordPress**
+### A Theme for Learning WordPress
 
 You know HTML, CSS, and JavaScript. You can make beautiful websites. Maybe you’ve heard about WordPress, but aren’t entirely sure how to implement it, or why you might need it. Maybe a client asked for WordPress, but you’re not really familiar with it. Maybe you’ve worked with it before, but don’t know how to make your own theme from scratch. Whatever the case, this article is for you.
 
@@ -67,3 +67,8 @@ You do need to know how to set up a local server environment. Fortunately, if yo
 * [Turn a custom Bootstrap website into a WordPress theme](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
 * [Expand upon WordPress theme with comments and more](http://www.taniarascia.com/wordpress-from-scratch-part-two)
 * [Migrate WordPress to a live server](http://www.taniarascia.com/migrating-a-wordpress-site-to-a-live-server/)
+
+## License
+
+The code is open source and available under the [MIT License](LICENSE.md).
+
