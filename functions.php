@@ -63,13 +63,19 @@ function setting_github() { ?>
 			<input type="text" name="github" id="github" value="<?php echo get_option('github'); ?>" />
 			<?php }
 
+function setting_facebook() { ?>
+			<input type="text" name="facebook" id="facebook" value="<?php echo get_option('facebook'); ?>" />
+			<?php }
+
 function custom_settings_page_setup() {
   add_settings_section('section', 'All Settings', null, 'theme-options');
   add_settings_field('twitter', 'Twitter URL', 'setting_twitter', 'theme-options', 'section');
   add_settings_field('github', 'GitHub URL', 'setting_github', 'theme-options', 'section');
+  add_settings_field('facebook', 'Facebook URL', 'setting_facebook', 'theme-options', 'section');
   
 	register_setting('section', 'twitter');
   register_setting('section', 'github');
+  register_setting('section', 'facebook');
 }
 add_action( 'admin_init', 'custom_settings_page_setup' );
 
