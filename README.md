@@ -1,5 +1,4 @@
-Start WordPress
-========
+# Start WordPress
 
 ### A Theme for Learning WordPress
 
@@ -33,7 +32,7 @@ You do need to know how to set up a local server environment. Fortunately, if yo
 * Create custom post types
 * Migrating WordPress
 
-### Layout pages 
+## Layout pages 
 
 * Header - `header.php`
 * Footer - `footer.php`
@@ -45,16 +44,16 @@ You do need to know how to set up a local server environment. Fortunately, if yo
 * Comments - `comments.php`
 * Functions - `functions.php`
 
-### The Loop
+## The Loop
 
 * Posts
 * Pages
 * Custom Post Types
 * Comments
 
-### Functions
+## Functions
 
-* Learn how to use functions.php
+* Learn how to use `functions.php`
 * Properly enqueue styles and scripts
 * Include featured images
 * Correctly insert WordPress title
@@ -72,4 +71,3 @@ You do need to know how to set up a local server environment. Fortunately, if yo
 ## License
 
 The code is open source and available under the [MIT License](LICENSE.md).
-
